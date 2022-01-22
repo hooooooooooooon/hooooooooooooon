@@ -1,3 +1,9 @@
+Curious Architect
+=============
+Hi, there!
+I'm an architect based in Seoul, South Korea.
+I love computational design and web services.
+
 ## Architectural Designer & Analyst.
 [![Behance Badge](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/gallery/127420305/Portfolio-2018-2021)](https://www.behance.net/gallery/127420305/Portfolio-2018-2021)
 [![Github Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://github.com/hooooooooooooon)](https://github.com/hooooooooooooon)
@@ -5,14 +11,6 @@
 [![Instargram Badge](https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hoooooooonie)](https://www.instagram.com/hoooooooonie)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/douglas920106)](https://www.facebook.com/douglas920106)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglaskim91@gmail.com)](mailto:douglaskim91@gmail.com)
-
-I am an architectural designer working in Seoul, Korea.
-
-I mainly use the Rhinoceros3D Grashopper and Python algorithms to automatically create architectural planes and elevation,
-
-and I run a blog website related to architecture.
-
-I’m currently learning Golang and Typescript.
 
 
 ## Programming Stats
@@ -27,13 +25,5 @@ I’m currently learning Golang and Typescript.
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-
-During 2020, I ran a travel-related web service as a test using Python, Django, and JavaScript with my team members.
-
-I have developed and used an automatic stock trading program using AWS EC2, Python, and financial company API.
-
-I'm currently learning a blockchain system using Golang and Typescript.
-
-And I'm very interested in machine learning & Data Analysis.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooooooooooooon&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark)
