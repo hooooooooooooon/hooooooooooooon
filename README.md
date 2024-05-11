@@ -1,4 +1,4 @@
-Inquisitive Architect
+Computational Designer / Architect
 =============
 Hi, there!
 
